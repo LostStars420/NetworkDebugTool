@@ -1,0 +1,6 @@
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\project\NetworkDebug\NetworkDebugTool\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

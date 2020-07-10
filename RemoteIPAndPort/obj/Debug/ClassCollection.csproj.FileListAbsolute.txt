@@ -1,0 +1,6 @@
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\bin\Debug\RemoteIPAndPort.dll
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\bin\Debug\RemoteIPAndPort.pdb
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\obj\Debug\ClassCollection.csprojAssemblyReference.cache
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\obj\Debug\ClassCollection.csproj.CoreCompileInputs.cache
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\obj\Debug\RemoteIPAndPort.dll
+E:\project\NetworkDebug\NetworkDebugTool\RemoteIPAndPort\obj\Debug\RemoteIPAndPort.pdb
